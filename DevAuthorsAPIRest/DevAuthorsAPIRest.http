@@ -1,0 +1,6 @@
+@DevAuthorsAPIRest_HostAddress = http://localhost:5226
+
+GET {{DevAuthorsAPIRest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
